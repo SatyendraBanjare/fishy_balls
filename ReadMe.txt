@@ -1,7 +1,4 @@
-This sample project exhibits how to implement either "local" or "global" collision detection with physics objects. It also demonstrates how to obtain the exact collision point in content coordinates, rather than just the position of the object(s) involved in the collision. Finally, it exhibits the difference between the three physics draw modes (normal, hybrid, and debug).
+This is a simple project I created using collision detection and drag interface sample code provided. Goal is to survive 60 seconds before hitting the fishes eith red ball.
 
-RELATED GUIDES
-[Collision Detection](https://docs.coronalabs.com/guide/physics/collisionDetection/index.html)
-[Physics Bodies](https://docs.coronalabs.com/guide/physics/physicsBodies/index.html)
 
 
